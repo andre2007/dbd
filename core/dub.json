@@ -1,0 +1,7 @@
+{
+	"description": "Delphi Bridge for D Core",
+	"name": "core",
+	"targetType": "library",
+	"sourcePaths": ["."],
+	"importPaths": ["."]
+}
