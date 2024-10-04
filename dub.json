@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"Andre Pany"
+	],
+	"copyright": "Copyright © 2024, S-E-A-P",
+	"description": "Delphi Bridge for D Core Library",
+	"license": "Boost Software License 1.0",
+	"name": "dbd",
+	"targetType": "library",
+	"subPackages": ["core"]
+}
